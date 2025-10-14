@@ -34,7 +34,7 @@ export default function Home() {
 
   const services = [
     {
-      title: "Jasa Perencana Konstruksi",
+      title: "Jasa Perencanaan Konstruksi",
       description: "Layanan perencanaan komprehensif untuk berbagai bidang konstruksi dengan pendekatan teknis dan inovatif",
       items: [
         "Desain Arsitektur Modern",
