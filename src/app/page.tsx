@@ -107,19 +107,19 @@ export default function Home() {
     {
       name: "Ir. Luqman Assaffat St. Mt. M.Kom",
       phone: "081225098250",
-      role: "Direktur Utama",
+      role: "Konsultan",
       image: "/director-portrait.jpg"
     },
     {
       name: "ROHMAN EKO SANTOSO",
       phone: "081226215789",
-      role: "Manager Operasional",
+      role: "Direktur Utama",
       image: "/manager-portrait.jpg"
     },
     {
       name: "Ahmad Wahyudi",
       phone: "08562683210",
-      role: "Manager Proyek",
+      role: "Konsultan",
       image: "/project-manager-portrait.jpg"
     }
   ]

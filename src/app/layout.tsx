@@ -20,6 +20,11 @@ export const metadata: Metadata = {
   description: "Modern Next.js scaffold optimized for AI-powered development with Z.ai. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
   keywords: ["Z.ai", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
   authors: [{ name: "Z.ai Team" }],
+  icons: {
+    icon: [
+      { url: "/company-logo.png", type: "image/png" },
+    ],
+  },
   openGraph: {
     title: "Konsultan SLF",
     description: "AI-powered development with modern React stack",
